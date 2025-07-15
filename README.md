@@ -26,42 +26,6 @@ This is a backend REST API built using **Java Spring Boot**, **Spring Data JPA**
 ---
 
 ## 📁 Project Structure
-      It looks like you've provided the content of a README.md file for an e-commerce backend API, along with a revised version from ChatGPT.
-
-I can help you arrange this content into a well-formatted README.md file. The ChatGPT version is already quite good, but I'll make sure it's clean, properly formatted, and includes some minor enhancements for clarity and completeness, based on best practices for README files.
-
-Here's the properly arranged and formatted README.md content:
-
-Markdown
-
-# 🛒 E-Commerce Backend API
-
-This is a backend REST API built using **Java Spring Boot**, **Spring Data JPA**, and **MySQL** for an e-commerce application. It supports basic product CRUD (Create, Read, Update, Delete) operations and follows a layered architecture (Controller → Service → Repository → Database).
-
----
-
-## 🚀 Features
-
-- ✅ Create, read, update, and delete products
-- ✅ MySQL database integration
-- ✅ Clean and scalable project structure
-- ✅ Built using Spring Boot best practices
-
----
-
-## 🧰 Tech Stack
-
-- **Java 17+**: The core programming language.
-- **Spring Boot**: Framework for building production-ready Spring applications.
-- **Spring Web**: Module for building web applications, including RESTful APIs.
-- **Spring Data JPA**: Simplifies data access and persistence with JPA.
-- **MySQL**: Relational database for storing product information.
-- **Lombok**: Reduces boilerplate code (e.g., getters, setters, constructors).
-- **Maven**: Dependency management and build automation tool.
-
----
-
-## 📁 Project Structure
             ecommerce-backend/
             ├── src/
             │   ├── main/
@@ -158,9 +122,12 @@ Here's an example of a product object in JSON format:
   "stock": 50
 }
 
+---
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
 
 ⭐ Show Your Support
 If you found this project helpful, please give it a ⭐ on GitHub and consider forking it!
