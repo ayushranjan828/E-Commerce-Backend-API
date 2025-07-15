@@ -62,21 +62,20 @@ This is a backend REST API built using **Java Spring Boot**, **Spring Data JPA**
 ---
 
 ## 📁 Project Structure
-
-ecommerce-backend/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/yourcompany/ecommerce/ # Replace with your package structure
-│   │   │       ├── controller/ # REST API Controllers
-│   │   │       ├── service/ # Business logic
-│   │   │       │   └── impl/ # Service implementations
-│   │   │       ├── model/ # JPA Entities (e.g., Product.java)
-│   │   │       └── repository/ # JPA Repositories (e.g., ProductRepository.java)
-│   │   └── resources/
-│   │       └── application.properties # Database configuration and other properties
-│   └── test/ # For unit and integration tests
-└── pom.xml # Maven project object model
+            ecommerce-backend/
+            ├── src/
+            │   ├── main/
+            │   │   ├── java/
+            │   │   │   └── com/yourcompany/ecommerce/ # Replace with your package structure
+            │   │   │       ├── controller/ # REST API Controllers
+            │   │   │       ├── service/ # Business logic
+            │   │   │       │   └── impl/ # Service implementations
+            │   │   │       ├── model/ # JPA Entities (e.g., Product.java)
+            │   │   │       └── repository/ # JPA Repositories (e.g., ProductRepository.java)
+            │   │   └── resources/
+            │   │       └── application.properties # Database configuration and other properties
+            │   └── test/ # For unit and integration tests
+            └── pom.xml # Maven project object model
 
 ---
 
