@@ -121,6 +121,7 @@ Here's an example of a product object in JSON format:
   "price": 599.0,
   "stock": 50
 }
+```
 
 ---
 
