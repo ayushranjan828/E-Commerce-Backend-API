@@ -122,12 +122,6 @@ Here's an example of a product object in JSON format:
   "stock": 50
 }
 ```
-
----
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 ⭐ Show Your Support
